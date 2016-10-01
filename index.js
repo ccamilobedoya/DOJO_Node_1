@@ -10,3 +10,7 @@ handle['/upload'] = requestHandlers.upload;
 
 // router.route = metodo que esta dentro de la var router, que es la del archivo ./router
 server.start(router.route, handle);
+
+
+
+// Para iniciar: node index.js
